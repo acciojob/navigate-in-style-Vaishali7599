@@ -1,8 +1,6 @@
 /*  your css code here. If applicable */
 .nav{
 	/* display: inline; */
-	list-style: none;
-	margin-right: 1rem;
 	background-color: #D3D3D3;
 	padding: 10px;
 	
@@ -11,5 +9,9 @@
 }
 li{
 	display: inline;
+	margin-right: 1rem;
+	list-style: none;
+
+
 	
 }
